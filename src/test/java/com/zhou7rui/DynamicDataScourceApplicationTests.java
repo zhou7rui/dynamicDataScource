@@ -17,7 +17,7 @@ public class DynamicDataScourceApplicationTests {
 	}
 
 
-	@Resource(name = "druidDataSource")
+	@Resource(name = "dynamicDataSource")
 	private DataSource dataSource;
 
 
